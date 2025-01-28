@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.music-bg-container {
+    height: 100vh;
+    width: 60vw;
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-stars-bg.png");
+    background-size: cover;
+    font-family: Bree Serif;
+    text-align: center;
+    padding: 40px;
+}
+
+.music-head {
+    font-size: 20px;
+    color: #ffffff;
+    font-weight: bold;
+
+}
+
+.music-paragraph {
+    font-size: 13px;
+    color: #ffffff;
+    padding: 5px;
+}
+
+.island-card-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-bg.png");
+    height: 30vh;
+    width: 40vw;
+    background-size: cover;
+    padding: 30px;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.island-head {
+    font-size: 25px;
+    color: #ffffff;
+}
+
+.card-under-para {
+    color: #ffffff;
+    font-size: 13px;
+    padding: 10px
+}
+
+.music-button {
+    border-radius: 5px;
+    font-size: 10px;
+    padding: 5px;
+
+}
+
+.island-bg-container {
+    background-color: #03174c;
+    height: 125vh;
+    width: 60vw;
+    text-align: left;
+
+}
+
+.night-island-card {
+    height: 40vh;
+    width: 60vw;
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/clouds-img.png");
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    background-size: cover;
+    font-family: Bree Serif;
+
+}
+
+.night-island-head {
+    font-size: 20px;
+    font-weight: bold;
+    color: #ffffff;
+    padding: 10px;
+    font-family: Bree Serif;
+}
+
+.night-island-paragraph {
+    color: #8e97fd;
+    font-size: 12px;
+    font-weight: bold;
+    font-family: Bree Serif;
+    padding: 10px;
+}
+
+.moon-cards {
+    height: 20vh;
+    width: 25vw;
+    margin: 5px;
+    margin-left: 10px;
+}
+
+.related-text {
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: bold;
+    font-style: Bree Serif;
+    margin: 10px;
+}
+
+.moon-text {
+    font-weight: bold;
+    color: #ffffff;
+    margin-right: 50px;
+    padding: 15px;
+    font-family: Bree Serif;
+}
+
+.sleep-time {
+    padding: 10px;
+    font-size: 12px;
+    font-weight: bold;
+    color: #8e97fd;
+    font-family: Bree Serif;
+    margin-right: 25px;
+}
